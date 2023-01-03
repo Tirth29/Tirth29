@@ -4,6 +4,9 @@
 - 💞️ I’m looking for help on open source
 - 📫 Reach me tirthsolanki29923@gmail.com 
 
+<h2>Social Newtwork</h2>
+
+
 <!---
 Tirth29/Tirth29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
