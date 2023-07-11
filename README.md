@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tirth29
 - 👀 I’m interested in Web Development,Javascript,C++
-- 🌱 I’m currently learning MERN Stack and DBMS
+- 🌱 MERN Stack Developer
 - 💞️ I’m looking for help on open source
 - 📫 Reach me tirthsolanki29923@gmail.com 
 
