@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tirth29
-- 👀 I’m interested in Web Development,Javascript,C++
+- 👀 Enthusiastic of Web Development,Javascript,C++
 - 🌱 MERN Stack Developer
 - 📫 Reach me tirthsolanki29923@gmail.com 
 
